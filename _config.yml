@@ -1,8 +1,9 @@
 site: Personal Jekyll Theme
 
-url: 
-baseurl: 
+url: https://lafinka.space
+baseurl: laFinka.space
 
+# Directories of Markdown
 collections:
   pages:
     output: true
@@ -14,6 +15,7 @@ collections:
     output: true
     permalink: /project/:slug
 
+# _layouts
 defaults:
   -
     scope:
