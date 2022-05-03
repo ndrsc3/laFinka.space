@@ -1,6 +1,6 @@
 # La Finka - Web Development
 
-[![Open in Visual Studio Code](https://img.shields.io/badge/Open%20in-Visal%20Studio%20Code-blue?style=for-the-badge&logo=visualstudiocode)](https://open.vscode.dev/your-github-username/your-repository-name)
+[![Open in Visual Studio Code](https://img.shields.io/badge/Open%20in-Visal%20Studio%20Code-blue?style=for-the-badge&logo=visualstudiocode)](https://open.vscode.dev/ndrsc3/laFinka.space)
 
 --- 
 This is the public repo of the La Finka website!
