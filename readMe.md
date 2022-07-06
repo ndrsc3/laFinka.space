@@ -6,4 +6,5 @@
 This is the public repo of the La Finka website!
 
 ## Setting Up the Dev Environment
+[Jekyll Starter Repo](https://github.com/mloberg/jekyll-starter)
 [Link To Tutorial](https://powers-hell.com/2021/07/25/build-a-jekyll-development-environment-with-vs-code-remote-containers/)
