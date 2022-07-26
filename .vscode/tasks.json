@@ -11,23 +11,16 @@
             "problemMatcher": []
         },
         {
-            "label": "Jekyll (Development)",
-            "command": "bundle exec jekyll",
+            "label": "Jekyll-Dev",
+            "command": "jekyll",
             "args": [
                 "serve",
                 "-w",
                 "-D",
-                "--future"
-            ],
-            "type": "shell",
-            "problemMatcher": []
-        },
-        {
-            "label": "Jekyll",
-            "command": "bundle exec jekyll",
-            "args": [
-                "serve",
-                "-w"
+                "--future",
+                "JEKYLL_ENV=production",
+                "--incremental",
+                "--trace"
             ],
             "type": "shell",
             "problemMatcher": []
