@@ -8,7 +8,7 @@ basic_settings:
 
 #TODO: Add La Finka Logo to Header here! - Replaces title on nav bar
 header_settings:
-  logo_image: /images/logo_laFinka.png
+  logo_image: /images/logo_laFinka.jpg
   logo_width: 200
 
 
