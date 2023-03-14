@@ -1,6 +1,7 @@
 # Setting.yml
 # Configure Global Settings of LaFinka.space
-
+#
+# 
 
 basic_settings:
   site_title: La Finka
@@ -8,12 +9,11 @@ basic_settings:
 
 #TODO: Add La Finka Logo to Header here! - Replaces title on nav bar
 header_settings:
-  logo_image: /images/logo_laFinka.jpg
+  logo_image: #/images/logo_laFinka.png
   logo_width: 200
 
-
 footer_settings:
-  footer_tagline: footer_tagline goes here!
+  footer_tagline: 'Powered By [ ___ ]'
 
 hero_settings:
   overlay_opacity: 0.8
@@ -26,6 +26,28 @@ contact_settings:
   confirmation_url: '/thanks'
   email_subject: 'Contact form submission'
   send_button_text: 'Send Message'
+
+# Menu Mapping
+menu_settings:
+  menu_items:
+    - title: 'Home'
+      url: '/'
+    - title: 'About Us'
+      url: '/about/'
+    - title: 'Moon Boom'
+      url: '/moonboom/'
+#    - title: 'Banana Rodeo'
+#      url: '/bananas/'
+#    - title: 'Projects'
+#      url: '/projects/'
+    - title: Blog
+      url: '/blog/'
+#    - title: 'Events'
+#      url: '/events/'
+#    - title: 'Calendar'
+#      url: '/calendar'
+#    - title: 'Contact Us'
+#      url: '/contact'
 
 #social_settings:
 #   facebook_url: 'UnFace'

@@ -9,8 +9,6 @@
 (function ($) {
 	'use strict';
 
-
-
 	// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Navigation
 
 	// Global vars

@@ -5,6 +5,8 @@
 #   /____/_/\__/\___/   /____/\___/\__/\__/_/_/ /_/\__, /____/
 #                                                 /____/
 #
+########################################################################
+
 # Title of your website
 title: 'La Finka'
 site: 'La Finka'
@@ -29,38 +31,8 @@ urlimg: 'https://lafinka.space/images/'
 # Logo size is 600x80 pixels
 logo: "logo.png"
 
-# Plugins
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-
-#       ____              _             __  _
-#      / __ \____ _____ _(_)___  ____ _/ /_(_)___  ____
-#     / /_/ / __ `/ __ `/ / __ \/ __ `/ __/ / __ \/ __ \
-#    / ____/ /_/ / /_/ / / / / / /_/ / /_/ / /_/ / / / /
-#   /_/    \__,_/\__, /_/_/ /_/\__,_/\__/_/\____/_/ /_/
-#               /____/
-#
-paginate: 5                      # Paginates all X entries
-paginate_path: "blog/page:num"   # Pagination path › Important for blog page in /blog/ to work
-
-# Theme works best with Kramdown (using the table of contents function)
-markdown: kramdown
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-
-# Exclude these files from your production _site
-exclude:
-    - .sass-cache
-    - Gemfile
-    - Gemfile.lock
-    - LICENSE
-    - README.md
-    - INSTALL.md
-    - vendor
-
 # Directories of Markdown
+#TODO: What does this do? How is this accessible on frontmatter
 collections:
   pages:
     output: true
@@ -71,6 +43,9 @@ collections:
   projects:
     output: true
     permalink: /project/:slug
+  moonbooms:
+    output: true
+    permalink: /moonboom/:slug
 
 # _layouts
 defaults:
@@ -98,8 +73,23 @@ defaults:
     values:
       layout: "project"
 
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
 
-  
+#       ____              _             __  _
+#      / __ \____ _____ _(_)___  ____ _/ /_(_)___  ____
+#     / /_/ / __ `/ __ `/ / __ \/ __ `/ __/ / __ \/ __ \
+#    / ____/ /_/ / /_/ / / / / / /_/ / /_/ / /_/ / / / /
+#   /_/    \__,_/\__, /_/_/ /_/\__,_/\__/_/\____/_/ /_/
+#               /____/
+#
+paginate: 5                      # Paginates all X entries
+paginate_path: "blog/page:num"   # Pagination path › Important for blog page in /blog/ to work
+#paginate_path: "project/page:num"   # Pagination path › Important for blog page in /blog/ to work
+
+
 #      _____
 #     / ___/____ ___________
 #     \__ \/ __ `/ ___/ ___/
@@ -110,6 +100,22 @@ defaults:
 sass:
     sass_dir : _sass
     style    : :compressed
+
+# Theme works best with Kramdown (using the table of contents function)
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Exclude these files from your production _site
+exclude:
+    - .sass-cache
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
+    - INSTALL.md
+    - vendor
 
 #     _____ __________
 #    / ___// ____/ __ \
