@@ -43,9 +43,9 @@ collections:
   projects:
     output: true
     permalink: /project/:slug
-  moonbooms:
-    output: true
-    permalink: /moonboom/:slug
+  #moonbooms:
+  #  output: true
+  #  permalink: /moonboom/:slug
 
 # _layouts
 defaults:
