@@ -2,7 +2,7 @@
 title: About Us
 subtitle: La Finka
 description: description
-featured_image: /images/lafinka-watercolor.jpg
+featured_image: /images/lafinka-watercolor.jpeg
 ---
 
 ## About Us

@@ -6,10 +6,12 @@ featured_image: /images/mb/moonboom.jpeg
 ---
 
 ## More than Just a living room show
-Moon Boom is about...
+Moon Boom is...
 
 Brought to you by Shelby & Niko
 
+Pretzelled by: [Stellar Snacks!](https://stellarsnacks.com/)
+Pickled by: [YOUR BRAND HERE!]()
 ---
 
 ### Highlights!
@@ -27,13 +29,30 @@ Brought to you by Shelby & Niko
 </div>
 
 
-# Gallery Wheels
-<div class="gallery" data-columns="1">
-	<img src="/images/mb/001.png">
-	<img src="/images/mb/002.png">
-</div>
+# Photo Gallery
 
-
-Pretzelled by: [Stellar Snacks!](https://stellarsnacks.com/)
-
-Pickled by: [YOUR BRAND HERE!]()
+<div class="gallery" data-columns="2">
+	<img src="/images/mb/show/MB001_01.JPG">
+	<img src="/images/mb/show/MB001_02.JPG">
+    <img src="/images/mb/show/MB001_03.JPG">
+    <img src="/images/mb/show/MB001_04.JPG">
+	<img src="/images/mb/show/MB001_05.JPG">
+    <img src="/images/mb/show/MB002_02.JPG">
+    <img src="/images/mb/show/MB002_03.JPG">
+    <img src="/images/mb/show/MB002_04.JPG">
+    <img src="/images/mb/show/MB002_05.JPG">
+    <img src="/images/mb/show/MB002_06.JPG">
+    <img src="/images/mb/show/MB002_07.JPG">
+    <img src="/images/mb/show/MB004_01.JPEG">
+    <img src="/images/mb/show/MB004_02.JPG">
+    <img src="/images/mb/show/MB004_03.JPG">
+    <img src="/images/mb/show/MB004_04.JPEG">
+    <img src="/images/mb/show/MB004_05.JPEG">
+    <img src="/images/mb/show/MB005_01.JPEG">
+    <img src="/images/mb/show/MB005_02.JPEG">
+    <img src="/images/mb/show/MB005_03.JPEG">
+    <img src="/images/mb/show/MB005_04.JPEG">
+    <img src="/images/mb/show/MB005_05.JPG">
+    <img src="/images/mb/show/MB005_06.JPG">
+    <img src="/images/mb/show/MB005_07.JPEG">
+</div>as
