@@ -1,7 +1,7 @@
 ---
 title: Get in Touch
-subtitle: Currently seeking new members!
-description: where does the descriptioni go?
+subtitle: Let us know what you are thinking!
+description: Contact Page
 featured_image: /images/demo/contact.jpg
 ---
 
