@@ -1,5 +1,5 @@
 ---
-title: 'Project 1 - La Finka'
+title: 'Project - La Finka'
 subtitle: 'Restoring La Finkas Interior to its Mid-Century Glory'
 date: 2020-04-30 00:00:00
 description: Home Renovation and Design
