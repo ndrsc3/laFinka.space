@@ -5,21 +5,31 @@ description: When the first light of the first moon catches your eye, Brain go B
 featured_image: /images/mb/moonboom.jpeg
 ---
 
-## More than Just a living room show
+## Moon Boom is...
 Moon Boom is...
+
+[//]: # (ToDo:: Description Of Moon Boom)
+
+[//]: # (ToDo:: Insert Moon Boom Animiated Logo Here!)
 
 Brought to you by Shelby & Niko
 
+Pickled by: [YOUR BRAND HERE!]()  
 Pretzelled by: [Stellar Snacks!](https://stellarsnacks.com/)
-Pickled by: [YOUR BRAND HERE!]()
+
+<img src="/images/third/logo_stellarSnacks.png" width="120" height="30" align="center" >
 ---
 
 ### Highlights!
-<iframe src="https://player.vimeo.com/video/148003889" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+[//]: # (ToDo:: Make a highlight real)
+s<iframe src="https://player.vimeo.com/video/148003889" width="640" height="360" frameborder="0" allowfullscreen></iframe>)
 
 --- 
-# Past Shows
 
+# Sign Up for Announcements!
+[//]: # (ToDo:: Create a Form to collect emails for newsletter)
+
+# Past Shows
 <div class="gallery" data-columns="2">
     <img src="/images/mb/poster/001.png">
     <img src="/images/mb/poster/002.png">
@@ -28,9 +38,9 @@ Pickled by: [YOUR BRAND HERE!]()
     <img src="/images/mb/poster/005.jpeg">
 </div>
 
+---
 
 # Photo Gallery
-
 <div class="gallery" data-columns="2">
 	<img src="/images/mb/show/MB001_01.JPG">
 	<img src="/images/mb/show/MB001_02.JPG">
@@ -55,4 +65,4 @@ Pickled by: [YOUR BRAND HERE!]()
     <img src="/images/mb/show/MB005_05.JPG">
     <img src="/images/mb/show/MB005_06.JPG">
     <img src="/images/mb/show/MB005_07.JPEG">
-</div>as
+</div>
