@@ -1,11 +1,30 @@
 <footer class="footer">
 
-	<div class="wrap">
+	<div class="wrap" align="center">
+		<a href="http://BananaRodeo.com">
+			<img src="/images/br/banana-4.png" 
+				width="25" 
+				height="25"
+				align="center"
+				alt="It's all bananas!">
+		</a>
+		<br>
 
 		<p class="footer__text">{{ site.data.settings.footer_settings.footer_tagline }}</p>
+		<!--
+		<div class="button">
+			<a href="/contact"> Contact Us</a>
+		</div>
+		-->
+
 		<div class="footer__copyright">
-			<span>© {{ 'now' | date: "%Y" }} by SNM LLC</span>
-			<!--<a href="https://jekyllthemes.io" target="_blank">SNM LLC</a>-->
+			<span>Powered by</span>
+			<a href="https://open.spotify.com/track/0Cz1CWsDSgGMbHZykVO5ei?si=371155f8883b4587" target="_blank">[ ___ ]</a>
+		</div>
+
+		<div class="footer__copyright">
+			<span>© {{ 'now' | date: "%Y" }}</span>
+			<a href="https://open.spotify.com/track/1v1PV2wERHiMPesMWX0qmO?si=e6a5f1b2f7a74a0a" target="_blank">SNM LLC</a>
 		</div>
 
 		{% include socials.html %}
