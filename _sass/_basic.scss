@@ -198,6 +198,14 @@ a {
 	}
 }
 
+#hidden-link {
+	font-weight: normal;
+	color: $text-medium-color;
+	&:hover {
+		color: $text-medium-color;
+	}
+}
+
 .button {
 	display: inline-block;
 	padding: 9px 10px 10px;
@@ -271,7 +279,6 @@ hr {
 
 ::selection 	 { background: $accent-color; color: $background-color; }
 ::-moz-selection { background: $accent-color; color: $background-color; }
-
 
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Page loading
