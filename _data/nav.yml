@@ -12,8 +12,8 @@ menu_settings:
 #      sublinks:
 #        - title: "Moon Boom"
 #          url: "/moonboom/"
-#    - title: 'Banana Rodeo'
-#      url: '/bananas/'
+#        - title: 'Banana Rodeo'
+#          url: '/bananas/'
 #    - title: 'Projects'
 #      url: '/projects/'
     - title: Blog
